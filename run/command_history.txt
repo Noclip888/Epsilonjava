@@ -1,0 +1,35 @@
+/l 123123Aa
+/sethome
+/home
+/ah search Эндер жемчуг
+/ah search Эндер жемчуг 10000
+/Kit start
+/kit start
+/sethome
+/l 123123Aa
+/home
+/an209
+/home
+/ah search Невидимость
+/home
+/spawn
+/ah search Отмычка к Инструментам
+/ah sell 149898
+/ah search Невидимость
+/home
+/ah search Невидимость
+/ah search золотая морковь
+/ah search зелье Невидимости
+/spawn
+/ah sell 149898
+/ah search Отмычка к Оружию
+/ah sell 189899
+/ah search Тотем бессмертия
+/ah sell 98989
+/an210
+/rtp
+/ah search Невидимость
+/ah search золотая морковь
+/rtp
+/an210
+/home
